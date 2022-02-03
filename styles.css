@@ -1,0 +1,45 @@
+body {
+    color: Black;
+    background-color: #7393B3;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 5px solid white;
+    display: flex;
+    margin: 0px auto 0px auto;
+    width: 40%;
+}
+
+h2,
+h3,
+endP,
+lastButton {
+    display: flex;
+    justify-content: center;
+}
+
+.king {
+    display: none;
+}
+
+.meliodas {
+    display: none;
+}
+
+.diane {
+    display: none;
+}
+
+.ban {
+    display: none;
+}
+
+.finalPage {
+    display: none;
+}
